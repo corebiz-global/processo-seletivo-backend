@@ -1,4 +1,4 @@
-# Processo seletivo para programador PHP Pleno
+# Processo seletivo para programador PHP
 
 
 ## Introdução
